@@ -1,1 +1,4 @@
-# symfony2-sample
+Symfony2サンプルコード
+==========
+
+Symfony2によるECCUBE3プラグイン制作例
